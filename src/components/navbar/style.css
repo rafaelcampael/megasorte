@@ -1,0 +1,20 @@
+
+.navbar{
+    background-color: #161111;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    color: tomato;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+.menu-link{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin: 0 10px;
+}
